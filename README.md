@@ -8,7 +8,7 @@ https://wiki.opensourceecology.de/Maker%27s_Mill
 
 The projekt is based on the UniProKit 3D-part-library UPKlib V2.05, which is available at 
 
-<a href="https://github.com/case06/upklib_v2"</a>
+<a href="https://github.com/case06/upklib_v2"></a>
 
 
 
