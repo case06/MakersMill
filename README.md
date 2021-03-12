@@ -1,6 +1,6 @@
 # MakersMill
 
-This is the source repo for the ZAC+-Projekt on
+This is the source repo for the "Maker's Mill"-Projekt on
 
 https://wiki.opensourceecology.de/Maker%27s_Mill
 
